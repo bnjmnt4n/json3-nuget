@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>JSON3</id>
+    <version>3.3.0</version>
+    <authors>Kit Cambridge, Benjamin Tan</authors>
+    <owners>Kit Cambridge, Benjamin Tan</owners>
+    <licenseUrl>https://github.com/bestiejs/json3/blob/gh-pages/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/bestiejs/json3</projectUrl>
+    <iconUrl>http://bestiejs.github.io/json3/page/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A modern JSON implementation compatible with nearly all JavaScript platforms.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2012-2014</copyright>
+    <tags>JavaScript</tags>
+  </metadata>
+  <files>
+    <file src="content\Scripts\json3.js" target="content\Scripts\json3.js" />
+    <file src="content\Scripts\json3.min.js" target="content\Scripts\json3.min.js" />
+  </files>
+</package>
