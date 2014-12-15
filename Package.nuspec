@@ -3,12 +3,12 @@
   <metadata>
     <id>JSON3</id>
     <title>JSON3</title>
-    <version>3.3.1</version>
+    <version>3.3.2</version>
     <authors>Kit Cambridge, Benjamin Tan</authors>
     <owners>Kit Cambridge, Benjamin Tan</owners>
     <licenseUrl>https://github.com/bestiejs/json3/blob/gh-pages/LICENSE</licenseUrl>
     <projectUrl>https://github.com/bestiejs/json3</projectUrl>
-    <iconUrl>http://bestiejs.github.io/json3/page/logo.png</iconUrl>
+    <iconUrl>https://bestiejs.github.io/json3/page/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A modern JSON implementation compatible with nearly all JavaScript platforms.</description>
     <summary>A modern JSON implementation compatible with nearly all JavaScript platforms.</summary>
